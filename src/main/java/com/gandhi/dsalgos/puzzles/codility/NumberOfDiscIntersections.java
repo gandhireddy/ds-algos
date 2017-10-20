@@ -1,4 +1,4 @@
-package com.gandhi.dsalgos.codility;
+package com.gandhi.dsalgos.puzzles.codility;
 
 public class NumberOfDiscIntersections {
 

@@ -1,4 +1,4 @@
-package com.gandhi.dsalgos.codility;
+package com.gandhi.dsalgos.puzzles.codility;
 
 /**
  * A non-empty zero-indexed array A consisting of N integers is given. The

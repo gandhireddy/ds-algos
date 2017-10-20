@@ -1,4 +1,4 @@
-package com.gandhi.dsalgos.codility;
+package com.gandhi.dsalgos.puzzles.codility;
 
 import java.util.ArrayList;
 import java.util.Arrays;
